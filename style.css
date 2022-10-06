@@ -90,7 +90,7 @@ main{
 .card-5 .card__detail{
   color: #222;
 }
-@media (max-width: 1024px){
+/* @media (max-width: 1024px){
   body{
     padding: 20px;
   }
@@ -121,4 +121,4 @@ main{
     grid-column: unset !important;
     grid-row: unset !important;
   }
-}
+} */
